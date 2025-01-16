@@ -14,18 +14,27 @@ Research Analysis
 This analysis answers the questions;
 
 What brand of cars does Delas company deal in?
+
 What is their warehouse capacity over the years?
+
 What types of gearbox do they have majorly available?
+
 What are the price list for all available cars?
+
 What is the most demanded brand?
+
 Which is the least brand?
 
 Key Insights
 
 Yearly Analysis: For each year, i was able to ascertain when the company had the most available quantity of cars, Between the year 1990-mid 2000's i observed that there was less availability of cars from the company and so demand could not be met but within the year 2010 to 2020, there was a very high number of cars in the warehouse this was majorly because of the increase in demand hence the company had to increase production of new cars and even the sales of used cars was also not left out
+
 Price Analysis: The total sum of price for all the vehicles; both used cars, New in stock and demo cars amount to the total sum of $627M within the year 1990 to 2020. The most expensive car during this analysis was the 2022 Toyota model which cost $2.4M followed by the second 2016 Porch most expensive which cost $1.9M and then in third place is the 2022 Mercedes which cost $1.4M
+
 Car Status Analysis: The cars are mostly used cars as there are more used cars in Canada than new stock or demo. from the analysis, we can see about a 100% of used cars are readily available as compared to new in stock and demo which had about 2.2% availability
+
 Gearbox Analysis: Each vehicle comes with a gear box and each gear box comes with its price depending on the type of car and the type of gearbox it comes with. from the analysis, there is Automatic gearbox, Manual, AWD, Front and Rear gearbox. The most used gearbox is the automatic with 85.5% availability in the warehouse as compared to the other gearbox types.
+
 The least sorted out car is Volvo while the most sort out car is the Toyota brand. as we know Volvo was a brand that was commonly used in the 90's to the early 2000's and within this period the company had very low production but then in the 2010's to 2020's. Toyota took over the market and became the most demanded.
 
 Recommendations
